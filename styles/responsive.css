@@ -1,0 +1,17 @@
+@media(max-width:1665px){
+    li:nth-child(4){
+        width: 26%;
+    }
+}
+
+@media(max-width:1658px){
+    .hero-heading{
+        font-size: 94px;
+    }
+}
+
+@media(max-width:1658px){
+    .hero-heading{
+        font-size: 90px;
+    }
+}

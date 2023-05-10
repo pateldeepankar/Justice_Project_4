@@ -41,6 +41,8 @@ section[aria-label="hero"]{
     width: 40%;
     height: 100%;
     display: inline-block;
+    vertical-align: sub;
+    margin-top: 20px;
     
 }
 
